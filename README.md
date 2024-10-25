@@ -1,5 +1,6 @@
 # Holographic_quantum_RAG_Nebula
 # Holographic Quantum RAG Nebula: A Novel Approach to Long-Term Memory for Language Models
+Francisco Angulo de Lafuente
 
 ## Abstract
 

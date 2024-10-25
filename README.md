@@ -1,7 +1,4 @@
 # Holographic_quantum_RAG_Nebula
-
-Here's a professional rewrite of the paper in English, explaining the technology and including 15 real references from scientists with related papers:
-
 # Holographic Quantum RAG Nebula: A Novel Approach to Long-Term Memory for Language Models
 
 ## Abstract

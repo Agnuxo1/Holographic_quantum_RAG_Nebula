@@ -36,7 +36,28 @@ The Holographic Quantum RAG Nebula is implemented using React, Three.js, and cus
 
 DEMO 2D: https://v0.dev/chat/zxua26lZsnT?b=Nb1RXgPNUa8
 
+
+![Captura de pantalla -2024-10-25 19-42-48](https://github.com/user-attachments/assets/9b604abc-415b-4ccb-9059-35ddb8c82caa)
+
+
+![Captura de pantalla -2024-10-25 19-43-13](https://github.com/user-attachments/assets/7bba99c8-4d59-4bbd-a184-e19204e35c0c)
+
+
+
 DEMO 3D: https://stackblitz.com/edit/sb1-evxclo?embed=1&file=package.json
+
+
+![Captura de pantalla -2024-10-25 19-44-15](https://github.com/user-attachments/assets/ff0294e3-c780-477a-924c-5c0d81079d4d)
+
+![Captura de pantalla -2024-10-25 19-44-39](https://github.com/user-attachments/assets/3bf92582-1f5d-4675-baba-a7cd007dc52d)
+
+![Captura de pantalla -2024-10-25 19-45-07](https://github.com/user-attachments/assets/695ae30e-f1a1-47ae-913d-fcb328628e30)
+
+![Captura de pantalla -2024-10-25 19-45-33](https://github.com/user-attachments/assets/879a986c-6bd9-46d3-bfd0-3df69a59b789)
+
+
+
+
 
 ## Results and Discussion
 

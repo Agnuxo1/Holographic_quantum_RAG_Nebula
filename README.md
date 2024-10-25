@@ -33,6 +33,11 @@ The Holographic Quantum RAG Nebula is implemented using React, Three.js, and cus
 
 4. Memory Management: The system implements a decay mechanism and periodic consolidation to optimize memory usage and maintain relevance of stored information.
 
+
+DEMO 2D: https://v0.dev/chat/zxua26lZsnT?b=Nb1RXgPNUa8
+
+DEMO 3D: https://stackblitz.com/edit/sb1-evxclo?embed=1&file=package.json
+
 ## Results and Discussion
 
 The Holographic Quantum RAG Nebula presents a visually compelling and interactive way to represent and explore knowledge extracted from text. The simulation of quantum effects enhances the retrieval process and provides a novel way to conceptualize relationships between words and concepts.
